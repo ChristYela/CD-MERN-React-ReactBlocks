@@ -1,0 +1,10 @@
+.advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: #b4a7d6;
+    margin-left: 12.5px;
+    margin-top: 12.5px;
+    padding-right: 17px;
+    border:3px solid black;
+    border-radius: 15px;
+}

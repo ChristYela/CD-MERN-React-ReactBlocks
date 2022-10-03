@@ -1,0 +1,9 @@
+.navigation{
+    height: 325px;
+    width: 200px;
+    margin-top: 25px;
+    border: 1px;
+    background-color: #6fa8dc; 
+    border:3px solid black;
+    border-radius: 15px;
+}

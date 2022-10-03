@@ -1,0 +1,9 @@
+.subcontent{
+    height: 200px;
+    width: 210px;
+    background-color: #ffd966;
+    margin: 12.5px;
+    display: flex;
+    border:3px solid black;
+    border-radius: 15px;
+}
